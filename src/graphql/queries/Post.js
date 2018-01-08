@@ -1,8 +1,3 @@
-// When the index method is called, this code passes all of the
-// arguments it receives to the resolver method (because the
-//resolver method needs access to the Subreddit name) and returns
-// the data provided by PostResolver.
-
 "use strict";
 
 const GraphQL = require("graphql");

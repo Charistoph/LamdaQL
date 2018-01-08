@@ -1,8 +1,3 @@
-// Here, we are specifying all of the fields for our post resource
-// that clients can query. Only the fields specified here can be
-// asked by clients. (Here, “clients” refers to anyone who will
-// be accessing the application.)
-
 "use strict";
 
 const GraphQL = require("graphql");

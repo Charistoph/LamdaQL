@@ -1,7 +1,3 @@
-// Here, we’re just requiring the dependencies that we installed
-// earlier: Express, body-parser, express-GraphQL and also the
-// GraphQL Schema that we just created.
-
 "use strict";
 
 const express = require("express");

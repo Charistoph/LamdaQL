@@ -1,7 +1,3 @@
-// This file requires the aws-serverless-express package that we just
-// installed. This is the package that makes it easier for us to
-// use express with AWS Lambda.
-
 "use strict";
 
 const awsServerlessExpress = require("aws-serverless-express");

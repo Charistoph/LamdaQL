@@ -1,11 +1,3 @@
-// This is a very simple express server. It runs at the port we
-// specified and includes the app object we exported from the file
-// src/app.js .
-
-// Since our server has been set up, we can now test our
-// application by running the command node server.js . You should
-// see the URL where our server is running.
-
 "use strict";
 
 const app = require("./src/app");

@@ -1,7 +1,3 @@
-// This file exports a very simple JavaScript object. The index
-// method on the PostsController object returns a promise (which
-// GraphQL accepts).
-
 "use strict";
 
 const axios = require("axios");

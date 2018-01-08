@@ -1,6 +1,3 @@
-// This exports a GraphQL Schema object and that object contains
-// the Query we created earlier.
-
 "use strict";
 
 const GraphQL = require("graphql");
